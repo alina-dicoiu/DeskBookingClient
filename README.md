@@ -1,2 +1,1 @@
-# QuizClient
 # DeskBookingClient
